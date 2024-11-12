@@ -53,4 +53,4 @@ jobs:
           app-name: 'NayaDisha'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_260558C471D448C79D7A6C5F1819AF6E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_095C64DEF5324F4BBAF718331BE6340F }}
